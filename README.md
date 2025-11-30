@@ -1,4 +1,4 @@
-# Banner-Grabber
+## Banner-Grabber
 
 A basic Python Banner grabbing script to find Open Ports of any hosts and grab banners of services available on different ports.
 
@@ -8,11 +8,15 @@ A basic Python Banner grabbing script to find Open Ports of any hosts and grab b
 *   **Banner Grabbing:** Retrieves service banners from open ports, revealing information about running services.
 *   **Threaded Scanning:** Implements multi-threading for faster port scanning.
 
+
+
 ## Prerequisites & Dependencies
 
 *   **Python 3.x:** Ensure Python 3 or later is installed on your system.
 *   **socket module:** This is part of the standard Python library and doesn't require separate installation.
 *   **threading module:** This is part of the standard Python library and doesn't require separate installation.
+
+
 
 ## Installation & Setup Instructions
 
@@ -24,6 +28,8 @@ A basic Python Banner grabbing script to find Open Ports of any hosts and grab b
     ```
 
 2.  **No specific installation is required.** The script `BannerGrabber.py` is self-contained.
+
+
 
 ## Usage Examples
 
@@ -93,10 +99,3 @@ Contributions are welcome! Here's how you can contribute:
 4.  Test your changes thoroughly.
 5.  Submit a pull request with a clear description of your changes.
 
-## License Information
-
-License not specified.
-
-## Acknowledgments
-
-*   [Optional] If you used any third-party libraries or resources, acknowledge them here.
