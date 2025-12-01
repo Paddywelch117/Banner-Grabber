@@ -1,6 +1,6 @@
 ## Banner-Grabber
 
-A basic Python Banner grabbing script to find Open Ports of any hosts and grab banners of services available on different ports.
+A basic Python banner grabbing script to find Open Ports of any hosts and grab banners of services available on different ports.
 
 ## Key Features & Benefits
 
